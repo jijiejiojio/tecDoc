@@ -1,0 +1,23 @@
+{
+  "name": "tecDoc",
+  "version": "1.0.0",
+  "description": "docsify-themeable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jijiejiojio/tecDoc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jijiejiojio/tecDoc/issues"
+  },
+  "homepage": "https://github.com/jijiejiojio/tecDoc#readme",
+  "devDependencies": {
+    "docsify-cli": "^4.4.4"
+  }
+}
