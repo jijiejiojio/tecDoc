@@ -1,9 +1,9 @@
 
 
-- [ 首页](/第一个docsify文档/docsify.md)
-- [Java基础](/Java基础/Java基础.md)
+- [ 首页](/tecDoc/第一个docsify文档/docsify.md)
+- [Java基础](/tecDoc/Java基础/Java基础.md)
 
-- [ MySQL](/MySQL/MySQL.md)
+- [ MySQL](/tecDoc/MySQL/MySQL.md)
 
 
 

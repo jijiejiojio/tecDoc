@@ -1,6 +1,6 @@
 
 
 
-- [ MySQL](/MYSQL/MySQL.md)
+- [ MySQL](/tecDoc/MYSQL/MySQL.md)
 
 
